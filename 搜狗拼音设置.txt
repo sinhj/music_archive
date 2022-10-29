@@ -1,2 +1,0 @@
-我的双拼方案 sogou_evpy_scheme.ini 放到
-C:\Progra~2\SogouInput\6.7.0.0647\ShuangPinSchemes
